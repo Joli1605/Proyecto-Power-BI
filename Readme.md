@@ -1,16 +1,16 @@
 
 # Proyecto de Power BI
 
-Este proyecto de Power BI tuvo como objetivo crear un dashboard interactivo y dinámico que permite visualizar y analizar datos de ventas, costos y rentabilidad. A continuación, se describen las características del proyecto, incluyendo las transformaciones aplicadas a cada tabla y las visualizaciones creadas.
+Este proyecto tuvo como objetivo crear un dashboard interactivo y dinámico que permite visualizar y analizar datos de ventas, costos y rentabilidad. A continuación, se describen las características del proyecto, incluyendo las transformaciones aplicadas a cada tabla y las visualizaciones creadas.
 
 ## Conexiones de Datos
-
+git 
 Se han creado conexiones a las siguientes tablas:
 
 - BT_Orden_Detalle
 - LK_Cliente
 - LK_Metodo_De_Pago
-- LK_Vendedor
+- LK_Vendedora
 - LK_Producto
 - LK_Proveedor
 - LK_Locales_GEO
