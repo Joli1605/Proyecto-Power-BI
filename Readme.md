@@ -5,7 +5,7 @@ El objetivo de este proyecto fue crear un dashboard interactivo y dinámico que 
 
 ## Conexiones de Datos
 git 
-Se han creado conexiones a las siguientes tablas:
+Conexiones a las siguientes tablas:
 
 - BT_Orden_Detalle
 - LK_Cliente
