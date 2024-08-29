@@ -35,7 +35,7 @@ En la tabla LK_Cliente, se realizaron las siguientes transformaciones:
 
 ### Tabla LK_Metodo_De_Pago
 
-Las transformaciones en la tabla LK_Metodo_De_Pago incluyeron:
+Transformaciones en la tabla LK_Metodo_De_Pago:
 
 1. **Eliminación de método de pago:** Se eliminó el método de pago "Club card".
 2. **Conversión a mayúsculas:** Todos los métodos de pago se convirtieron a mayúsculas.
