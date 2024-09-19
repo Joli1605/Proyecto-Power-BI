@@ -107,8 +107,7 @@ En la página Detalle de Ventas, se incluyeron las siguientes visualizaciones y 
 Esta guía muestra las transformaciones de datos y las visualizaciones creadas en el proyecto de Power BI, asegurando que los datos sean limpios, estructurados y listos para análisis detallados.
 
 **Conclusión**
-En este proyecto logré transformar y consolidar datos de diversas fuentes para crear un dashboard interactivo y funcional. Las transformaciones de datos aseguraron su integridad y consistencia, facilitando un análisis preciso y efectivo.
-
+En este proyecto, transformé y consolidé datos provenientes de diversas fuentes para desarrollar un dashboard interactivo y altamente funcional. Apliqué transformaciones que garantizaron la integridad y consistencia de los datos, permitiendo realizar análisis precisos y efectivos.
 Las visualizaciones generadas, como las tarjetas de métricas, gráficos de evolución y treemaps, facilitan una comprensión clara y precisa de las ventas, costos y rentabilidad. La incorporación de segmentadores de datos aporta interactividad, permitiendo a los usuarios filtrar y explorar la información de acuerdo con diversos criterios.
 Este proyecto proporciona una herramienta poderosa para la toma de decisiones estratégicas, presentando datos limpios y estructurados que permiten un análisis detallado y personalizado del rendimiento del negocio.
 
