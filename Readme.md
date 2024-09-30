@@ -108,9 +108,9 @@ Esta guía muestra las transformaciones de datos y las visualizaciones creadas e
 
 **Conclusión**
 En este proyecto, realicé la transformación y consolidación de datos de múltiples fuentes para desarrollar un dashboard interactivo y altamente funcional. Las transformaciones aplicadas garantizaron la consistencia y precisión de los datos, facilitando un análisis confiable y eficiente.
-Las visualizaciones generadas, como las tarjetas de métricas, gráficos de evolución y treemaps, facilitan una comprensión clara y precisa de las ventas, costos y rentabilidad. La incorporación de segmentadores de datos aporta interactividad, permitiendo a los usuarios filtrar y explorar la información de acuerdo con diversos criterios.
-Este proyecto proporciona una herramienta poderosa para la toma de decisiones estratégicas, presentando datos limpios y estructurados que permiten un análisis detallado y personalizado del rendimiento del negocio.
+Las visualizaciones generadas, como tarjetas de métricas, gráficos de evolución y treemaps, proporcionan una visión clara y comprensible sobre las ventas, costos y rentabilidad. Además, la inclusión de segmentadores de datos permite a los usuarios interactuar y filtrar la información según criterios específicos.
 
+Este proyecto ofrece una herramienta robusta para la toma de decisiones estratégicas, presentando datos limpios y organizados que permiten un análisis detallado y adaptable del rendimiento del negocio.
 ¿Tienes alguna pregunta o sugerencia? 
 
 No dudes en contactarme!
