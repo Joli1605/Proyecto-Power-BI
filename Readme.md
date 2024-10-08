@@ -104,7 +104,7 @@ En la página Detalle de Ventas, se incluyeron las siguientes visualizaciones y 
 3. **Tabla de datos:** Se incluyó una tabla que muestra "Location", "Categoría", "Total venta" y "Total costo".
 4. **Gráfico de Treemap:** Se visualizó las ventas por jerarquías de productos (Categoría, Subcategoría y Producto), con el color representando la Rentabilidad y el tamaño representando la Venta.
 
-Esta guía muestra las transformaciones de datos y las visualizaciones creadas en el proyecto de Power BI, asegurando que los datos sean limpios, estructurados y listos para análisis detallados.
+Esta guía detalla las transformaciones de datos y las visualizaciones desarrolladas en el proyecto de Power BI, garantizando que los datos se encuentren limpios, estructurados y listos para un análisis exhaustivo.
 
 **Conclusión**
 En este proyecto, realicé la transformación y consolidación de datos de múltiples fuentes para desarrollar un dashboard interactivo y funcional. Las transformaciones aplicadas garantizaron la consistencia y precisión de los datos, facilitando un análisis confiable y eficiente.
