@@ -112,7 +112,6 @@ Las visualizaciones generadas, como tarjetas de métricas, gráficos de evoluci�
 
 Este proyecto ofrece una herramienta robusta para la toma de decisiones estratégicas, presentando datos limpios y organizados que permiten un análisis detallado y adaptable del rendimiento del negocio.
 ¿Tienes alguna pregunta o sugerencia? 
-
 No dudes en contactarme!
 
 Correo eléctronico: jorgelinapramos@hotmail.com
