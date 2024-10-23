@@ -52,7 +52,7 @@ Para la tabla LK_Producto, se aplicaron las siguientes transformaciones:
 
 ## Relaciones Entre Tablas
 
-Se establecieron relaciones entre las tablas de dimensiones (LK) y la tabla de hechos (BT_Orden_Detalle). Se verificó que los campos relacionados no tuvieran nombres iguales en ambas tablas, renombrándolos cuando fue necesario. Se revisaron específicamente las relaciones entre LK_Vendedor y BT_Orden_Detalle, y entre LK_Metodo_De_Pago y BT_Orden_Detalle.
+Se establecieron las relaciones entre las tablas de dimensiones (LK) y la tabla de hechos (BT_Orden_Detalle). Se verificó que los campos relacionados no tuvieran nombres duplicados en ambas tablas, renombrándolos cuando fue necesario. En particular, se revisaron las relaciones entre LK_Vendedor y BT_Orden_Detalle, así como entre LK_Metodo_De_Pago y BT_Orden_Detalle.
 
 ## Columnas Calculadas en BT_Orden_Detalle
 
