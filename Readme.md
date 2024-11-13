@@ -18,7 +18,7 @@ Conexiones a las siguientes tablas:
 
 ### Tabla LK_Vendedor
 
-En la tabla LK_Vendedor, se realizaron varias transformaciones para limpiar y estructurar los datos:
+En la tabla LK_Vendedor, se ejecutaron varias transformaciones para limpiar y estructurar los datos:
 
 1. **Separación del nombre completo:** El nombre completo se dividió en dos columnas: "Nombre" y "Apellido".
 2. **Categorización de género:** Se creó una columna condicional llamada "Sexo" para categorizar la columna "género" como "Femenino" cuando el género es "F" y "Masculino" cuando es "M".
