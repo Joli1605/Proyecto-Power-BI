@@ -107,12 +107,14 @@ En la página Detalle de Ventas, se incluyeron las siguientes visualizaciones y 
 Esta guía detalla las transformaciones de datos y las visualizaciones desarrolladas en el proyecto de Power BI, garantizando que los datos se encuentren limpios, estructurados y listos para un análisis exhaustivo.
 
 **Conclusión**
-Este proyecto, realicé la transformación y consolidación de datos de múltiples fuentes para desarrollar un dashboard interactivo y funcional. Las transformaciones aplicadas garantizaron la consistencia y precisión de los datos, facilitando un análisis confiable y eficiente.
-Las visualizaciones generadas, como tarjetas de métricas, gráficos de evolución y treemaps, proporcionan una visión clara y comprensible sobre las ventas, costos y rentabilidad. Además, la inclusión de segmentadores de datos permite a los usuarios interactuar y filtrar la información según criterios específicos.
+En este proyecto, llevé a cabo la transformación y consolidación de datos provenientes de múltiples fuentes para desarrollar un dashboard interactivo y altamente funcional. Las transformaciones aplicadas aseguraron la consistencia y precisión de los datos, lo que facilitó un análisis confiable y eficiente.
 
-Este proyecto ofrece una herramienta robusta para la toma de decisiones estratégicas, presentando datos limpios y organizados que permiten un análisis detallado y adaptable del rendimiento del negocio.
-¿Tienes alguna pregunta o sugerencia? 
-No dudes en contactarme!
+Las visualizaciones generadas, incluyendo tarjetas de métricas, gráficos de evolución y treemaps, ofrecen una perspectiva clara y comprensible sobre aspectos clave como ventas, costos y rentabilidad. Además, la incorporación de segmentadores de datos permite a los usuarios interactuar con la información y filtrarla según criterios específicos, adaptándose a sus necesidades particulares.
+
+El resultado es una herramienta robusta para la toma de decisiones estratégicas, que presenta datos limpios y organizados, ideales para un análisis detallado y adaptable del rendimiento del negocio.
+
+¿Tienes alguna pregunta o sugerencia?
+¡No dudes en contactarme!
 
 Correo eléctronico: jorgelinapramos@hotmail.com
 
