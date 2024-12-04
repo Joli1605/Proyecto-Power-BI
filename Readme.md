@@ -1,7 +1,7 @@
 
 # Proyecto de Power BI
 
-El objetivo de este proyecto fue desarrollar un dashboard interactivo y dinámico para visualizar y analizar datos de ventas, costos y rentabilidad de manera eficiente. Se detallaron las principales características del proyecto, destacando las transformaciones realizadas en cada conjunto de datos y las visualizaciones implementadas para facilitar el análisis.
+El proyecto tuvo como objetivo crear un dashboard interactivo y dinámico que permitiera una visualización y análisis eficiente de datos relacionados con ventas, costos y rentabilidad. En su desarrollo, se destacaron las principales transformaciones aplicadas a cada conjunto de datos y las visualizaciones diseñadas para optimizar el proceso de análisis.
 
 ## Conexiones de Datos
 Conexiones a las siguientes tablas:
