@@ -27,7 +27,7 @@ Conexiones a las siguientes tablas:
 
 ### Tabla LK_Cliente
 
-En la tabla LK_Cliente, se realizaron las siguientes transformaciones:
+Tabla LK_Cliente, se realizaron las siguientes transformaciones:
 
 1. **Combinación de nombre y apellido:** Se creó una columna "Nombre completo" combinando las columnas "Nombre" y "Apellido", separadas por una coma.
 2. **Eliminación de columnas innecesarias:** Se eliminaron las columnas "Nombre" y "Apellido".
