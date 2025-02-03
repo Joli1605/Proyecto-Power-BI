@@ -3,7 +3,7 @@
 
 El  objetivo de este proyecto fue crear un dashboard interactivo y dinámico para la visualización y análisis eficiente de datos 
 relacionados con ventas, costos y rentabilidad.
- A continuación, se detallan las principales transformaciones aplicadas, las visualizaciones desarrolladas y las métricas implementadas.
+Se detallan las principales transformaciones aplicadas, las visualizaciones desarrolladas y las métricas implementadas.
 
 ---
 
