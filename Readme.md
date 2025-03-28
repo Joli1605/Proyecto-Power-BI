@@ -111,7 +111,7 @@ Se configuraron relaciones entre las tablas de dimensiones (LK) y la tabla de he
 ---
 
 #Conclusión
-El presente proyecto ejemplifica cómo Power BI permite integrar y analizar datos de diversas fuentes, asegurando su correcta limpieza y organización. Las visualizaciones creadas proporcionan una visión clara de las ventas, costos y rentabilidad, facilitando una toma de decisiones más informada y estratégica.
+Este proyecto ejemplifica cómo Power BI permite integrar y analizar datos de diversas fuentes, asegurando su correcta limpieza y organización. Las visualizaciones creadas proporcionan una visión clara de las ventas, costos y rentabilidad, facilitando una toma de decisiones más informada y estratégica.
 ---
 
 ¿Tienes preguntas o sugerencias? ¡Contáctame!  
