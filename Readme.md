@@ -19,36 +19,44 @@ Se establecieron conexiones con las siguientes tablas de datos:
 
 ---
 
-## Transformaciones de Datos
+ ## Transformaciones de Datos
+Tabla LK_Vendedora
+Separación del nombre completo: Se desglosó en las columnas "Nombre" y "Apellido".
 
-### Tabla LK_Vendedora
+Categorización de género: Se añadió la columna "Sexo" con valores "Femenino" o "Masculino".
 
-1. **Separación del nombre completo:** Se dividió en las columnas "Nombre" y "Apellido".
-2. **Categorización de género:** Se añadió la columna "Sexo", categorizando como "Femenino" o "Masculino".
-3. **Eliminación de columnas innecesarias:** Se eliminaron "Teléfono" y "Correo".
-4. **Integridad de datos:** Se garantizaron datos limpios y sin filas vacías.
+Depuración de datos: Se eliminaron las columnas "Teléfono" y "Correo" por considerarse innecesarias.
 
-### Tabla LK_Cliente
+Validación de integridad: Se aseguraron datos limpios y sin filas vacías.
 
-1. **Combinación de nombre y apellido:** Se creó la columna "Nombre completo".
-2. **Eliminación de columnas innecesarias:** Se eliminaron "Nombre" y "Apellido".
-3. **Integridad de datos:** Se validaron datos limpios y completos.
+Tabla LK_Cliente
+Unificación del nombre: Se creó la columna "Nombre completo" combinando "Nombre" y "Apellido".
 
-### Tabla LK_Metodo_De_Pago
+Depuración de datos: Se eliminaron las columnas originales "Nombre" y "Apellido".
 
-1. **Eliminación de método de pago:** Se excluyó "Club card".
-2. **Conversión a mayúsculas:** Todos los métodos de pago se escribieron en mayúsculas.
-3. **Integridad de datos:** Validación sin filas vacías.
+Validación de integridad: Se garantizaron datos completos y sin inconsistencias.
 
-### Tabla LK_Producto
+Tabla LK_Metodo_De_Pago
+Depuración de datos: Se eliminó la opción "Club card" de los métodos de pago.
 
-1. **Ajuste de encabezados:** La primera fila se configuró como encabezado.
-2. **Reordenamiento de columnas:** La columna "Precio" se movió al final.
-3. **Categorización de precios:** Se añadió la columna "Segmento" con categorías:
-   - "Bronce" (1 a 30)
-   - "Plata" (31 a 200)
-   - "Oro" (201 a 2000).
-4. **Integridad de datos:** Garantía de datos completos y sin errores.
+Estandarización del formato: Todos los métodos de pago se convirtieron a mayúsculas.
+
+Validación de integridad: Se verificó la ausencia de filas vacías.
+
+Tabla LK_Producto
+Ajuste de encabezados: Se estableció la primera fila como encabezado.
+
+Reorganización de datos: Se movió la columna "Precio" al final para mejorar la disposición de la información.
+
+Segmentación de precios: Se añadió la columna "Segmento" con las siguientes categorías:
+
+Bronce: 1 a 30
+
+Plata: 31 a 200
+
+Oro: 201 a 2000 
+
+Validación de integridad: Se garantizaron datos completos y sin errores.
 
 ---
 
