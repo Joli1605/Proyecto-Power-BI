@@ -119,7 +119,7 @@ Se configuraron relaciones entre las tablas de dimensiones (LK) y la tabla de he
 ---
 
 #Conclusión
-El proyecto demuestra cómo Power BI simplifica la integración y el análisis de datos provenientes de diversas fuentes, asegurando su adecuada limpieza y organización. Las visualizaciones generadas ofrecen una visión precisa de las ventas, los costos y la rentabilidad, lo que permite tomar decisiones más informadas y estratégicas.
+Este proyecto demuestra cómo Power BI simplifica la integración y el análisis de datos provenientes de diversas fuentes, asegurando su adecuada limpieza y organización. Las visualizaciones generadas ofrecen una visión precisa de las ventas, los costos y la rentabilidad, lo que permite tomar decisiones más informadas y estratégicas.
 ---
 
 ¿Tienes preguntas o sugerencias? ¡Contáctame!  
