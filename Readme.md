@@ -7,7 +7,7 @@ Este informe describe las transformaciones clave aplicadas a los datos, las visu
 
 ## Conexiones de Datos
 
-Las siguientes son conexiones que se establecieron con las tablas de datos: 
+Conexiones que se establecieron con las tablas de datos: 
 
 - **BT_Orden_Detalle**
 - **LK_Cliente**
