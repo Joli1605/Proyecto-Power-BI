@@ -124,4 +124,4 @@ El objetivo de este proyecto fue demostrar cómo Power BI simplifica la integrac
 ¿Tienes preguntas o sugerencias? ¡Contáctame!  
 📧 **Correo:** jorgelinapramos@hotmail.com  
 🌐 **LinkedIn:** [Jorgelina Ramos](https://www.linkedin.com/in/jorgelina-p-l-ramos-83564422b/)  
-📞 **Teléfono:** +549 2396510483
+📞 **Teléfono:** +549 2396-510483
