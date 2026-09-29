@@ -1,6 +1,6 @@
 Proyecto Power BI
 
-Este dashboard interactivo y dinámico facilita la visualización y el análisis de datos sobre ventas, costos y rentabilidad. El informe, describe las transformaciones clave aplicadas a los datos, las visualizaciones desarrolladas y las métricas definidas, con el propósito de mejorar la comprensión y el aprovechamiento de la información.
+En este dashboard interactivo y dinámico permite y facilita la visualización y el análisis de datos sobre ventas, costos y rentabilidad. El informe, describe las transformaciones clave aplicadas a los datos, las visualizaciones desarrolladas y las métricas definidas, con el propósito de mejorar la comprensión y el aprovechamiento de la información.
 ---
 
 ## Conexiones de Datos
