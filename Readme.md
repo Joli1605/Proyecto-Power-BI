@@ -60,7 +60,7 @@ Validación de integridad: Se garantizaron datos completos y sin errores.
 
 ## Relaciones Entre Tablas
 
-Se realizó la configuración de las relaciones entre las tablas de dimensiones (LK) y la tabla de hechos (BT_Orden_Detalle), asegurando consistencia y sin duplicados. Particularmente:
+Se realizó configuraciones de las relaciones entre las tablas de dimensiones (LK) y la tabla de hechos (BT_Orden_Detalle), asegurando consistencia y sin duplicados. Particularmente:
 
 - **LK_Vendedora** y **BT_Orden_Detalle**
 - **LK_Metodo_De_Pago** y **BT_Orden_Detalle**
