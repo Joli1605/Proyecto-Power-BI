@@ -117,7 +117,7 @@ Se realizó configuraciones de las relaciones entre las tablas de dimensiones (L
 ---
 
 #Conclusión
-El objetivo fue visualizar la integración y el análisis de datos provenientes de diversas fuentes a traves de Power BI, asegurando su adecuada limpieza y organización. Las visualizaciones realizadas ofrecen una visión precisa de las ventas, los costos y la rentabilidad, lo que permite tomar decisiones más informadas y estratégicas.
+El objetivo de este proyecto fue visualizar la integración y el análisis de datos provenientes de diversas fuentes a traves de Power BI, asegurando su adecuada limpieza y organización. Las visualizaciones realizadas ofrecen una visión precisa de las ventas, los costos y la rentabilidad, lo que permite tomar decisiones más informadas y estratégicas.
 ---
 
 ¿Tienes preguntas o sugerencias? ¡Contáctame!  
