@@ -1,6 +1,6 @@
 Proyecto Power BI
 
-El dashboard facilitó la visualización y el análisis de datos sobre ventas, costos y rentabilidad.Por otra parte, el informe, describe las transformaciones clave aplicadas a los datos, las visualizaciones desarrolladas y las métricas definidas, con el propósito de mejorar la comprensión y el aprovechamiento de la información.
+Este dashboard facilita la visualización y el análisis de datos sobre ventas, costos y rentabilidad.Por otra parte, el informe, describe las transformaciones clave aplicadas a los datos, las visualizaciones desarrolladas y las métricas definidas, con el propósito de mejorar la comprensión y el aprovechamiento de la información.
 ---
 
 ## Conexiones de Datos
